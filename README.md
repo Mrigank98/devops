@@ -1,1 +1,1 @@
-# devops
+# devopspython is simple
