@@ -1,0 +1,11 @@
+
+
+#sample code for even number 
+
+  num = [20,11,30,40,80]
+     for i in num:
+       if num%2==0
+         print("num is even")
+    	
+	else("num is odd")
+	
